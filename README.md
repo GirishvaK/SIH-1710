@@ -38,20 +38,35 @@ Provide a dashboard displaying real-time information such as platform numbers, t
 ## Technology Stack
 
 React.js
+
 Node.js 
+
 PostgreSQL
+
 Firebase Authentication
+
 Google Maps / OpenStreetMap
+
 Web Speech API / AI API
+
 LLM / RAG
+
 QR / BLE / Wi-Fi
+
 Git + GitHub
+
 Vercel / Render / Railway
 
 ## Dependencies
 
+
 Cloud/Hosting	: ₹5,000
+
 Maps/API :	₹10,000
+
 AI services	: ₹10,000
+
 QR/BLE prototype	: ₹8,000
+
 Testing & Devices	: ₹7,000
+
